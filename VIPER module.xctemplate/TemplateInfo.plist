@@ -42,7 +42,7 @@
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
-			<string>combo</string>
+			<string>text</string>
 			<key>NotPersisted</key>
 			<true/>
 			<key>Default</key>
